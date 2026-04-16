@@ -46,6 +46,6 @@ python nome_do_arquivo.py
 
 📸 Exemplo de uso
 
-Digite a URL: de sus preferencia
+Digite a URL: de sua preferencia
 
 <img width="721" height="561" alt="image" src="https://github.com/user-attachments/assets/7b1108d0-f38e-4662-ade3-cba80b8e9eed" />
