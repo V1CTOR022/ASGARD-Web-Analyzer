@@ -37,7 +37,7 @@ O projeto foi criado com foco em aprendizado de requisições HTTP, análise de 
 
 1. Instale as dependências:
 
-```bash
+bash
 pip install colorama pyfiglet
 
 Execute o programa:
